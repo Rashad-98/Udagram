@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
 # Hosting a Full-Stack Application
 
 ### **Application Link:** http://udacitycoraldeerproject2.s3-website-us-east-1.amazonaws.com
